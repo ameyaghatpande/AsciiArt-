@@ -8,6 +8,6 @@
 3. Run each cell of the jupyter notebook from top to bottom by pressing (Shift + Enter)on each cell
 4. Function definitions and test cases have been explained in jupyter notebook
 
-#### Data format - I am using Run Length Encoding(RLE) to compress the input Ascii Art. This encoding is useful to compress the input data when it contains "CONSECUTIVE" similar characters. I choose this compression type becuase Ascii Art has lot of consecutive characters and also has lot of tabs/spaces at start/end of each line (which is again a character " "). This helps to compress the data effeciently
+#### Data format - I am using Run Length Encoding(RLE) to compress the input Ascii Art. This encoding is useful to compress the input data when it contains "CONSECUTIVE" similar characters. I choose this compression type because Ascii Art has lot of consecutive characters and also has lot of tabs/spaces at start/end of each line (which is again a character " "). This helps to compress the data effeciently
 #### Sample input = "AAA2222CCCCCCA"  
 #### Sample encoded output by RLE = [(3, A), (4, 2), (6, C), (1,A)]
