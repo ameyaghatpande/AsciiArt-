@@ -1,5 +1,12 @@
 ### ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard
 
+Example of AsciiArt can be seen below. In old days when printers were not advance, simple key strokes were used to draw pictures. There needs to be a way to effeciently store and retrieve the AsciiArt 
+
+     (\_/)
+    (='.'=)
+    (")_(")
+       
+
 #### This code will create an AsciiArt Encoder/Decoder in python
 
 #### Steps to run the code
